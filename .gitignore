@@ -1,0 +1,16 @@
+bin/
+obj/
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+.vscode/
+.vs/
+*.sln
+*.csproj
+*.user
+*.vssettings
+*.suo
+.NETFramework,Version=v4.0.AssemblyAttributes.cs
+logs/
+*.log
